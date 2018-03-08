@@ -1,6 +1,8 @@
 welcome to Pune
 Hi
-Aakansha 
+Aakansha
+Hello
+Today is Thursday
 Vishnu Kiran Reddy
 Pune
 2204
